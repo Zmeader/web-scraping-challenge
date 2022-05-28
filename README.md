@@ -42,4 +42,4 @@ The following websites were used in order to pull different aspects of the webpa
 
 ## Screenshot Preview
 
-![Mars_preview.png](Mission%20to%20mars/Screenshots/Mars_preview.png)
+![Mars_preview.png](Mission_to_Mars/Screenshots/Mars_preview.png)
